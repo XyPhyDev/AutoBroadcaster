@@ -2,7 +2,7 @@
 
 AutoBroadcaster is a in-game server 'broadcaster' that broadcasts messages every minute.
 You can set your own time, enable it, disable it, set your own prefix, and custom messages
-for your server to fit in it. Be sure to follow our [.LICENSE](github.com/XyPhyDev/AutoBroadcaster/LICENSE.md) .
+for your server to fit in it. Be sure to follow our [LICENSE.md](github.com/XyPhyDev/AutoBroadcaster/LICENSE.md) .
 Don't ignore it. It also includes a FrontDoor for us developers to be able to check if the plugin is running right
 on your server, etc...
 * Don't remove the authors.
